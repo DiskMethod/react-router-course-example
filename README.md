@@ -1,8 +1,6 @@
-# Project 1 For Udemy Tutorial (React - The Complete Guide)
+# Section 20 From Udemy Tutorial (React - The Complete Guide)
 
-This project is a simple expenses manager that follows along with the udemy tutorial: [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-
-All assignments (1-4) have been completed.
+This project uses react router v6 instead of v5 as shown in the tutorial.
 
 ## Available Scripts
 
